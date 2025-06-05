@@ -24,7 +24,7 @@ class HomeScreen extends StatelessWidget {
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text("snaa Fruitland 🥝🍒"),
+        title: const Text("Bulsky Buah Buahan 🥝🍒"),
         actions: [
           IconButton(
             icon: const Icon(Icons.shopping_cart),
